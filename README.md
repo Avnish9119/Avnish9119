@@ -7,6 +7,13 @@
 - Learning Python and web development
 - Building practical software projects
 - Improving my coding and problem-solving skills
+- ## My Portfolio
+
+Check out my personal portfolio website:
+
+[🌐 Visit My Portfolio](https://avnish9119.github.io/portfolio-website/)
+
+
 
 ## Skills
 - Python
