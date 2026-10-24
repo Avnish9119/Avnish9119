@@ -7,15 +7,8 @@
 - Learning Python and web development
 - Building practical software projects
 - Improving my coding and problem-solving skills
-- ## My Portfolio
-
-Check out my personal portfolio website:
-
-[🌐 Visit My Portfolio](https://avnish9119.github.io/portfolio-website/)
-
-
-
-## Skills
+-
+- ## Skills
 - Python
 - Flask
 - SQL / SQLite
@@ -29,6 +22,14 @@ Check out my personal portfolio website:
 - Admin, Teacher & Student Login
 - Search Student Records
 - Recycle Bin & Restore
+- 
+- ## My Portfolio
+
+Check out my personal portfolio website:
+
+[🌐 Visit My Portfolio](https://avnish9119.github.io/portfolio-website/)
+
+
 
 ## Connect With Me
 - LinkedIn: YOUR_LINKEDIN_URL: https://www.linkedin.com/in/avnish-verma-363a62393
