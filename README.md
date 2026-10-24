@@ -7,7 +7,7 @@
 - Learning Python and web development
 - Building practical software projects
 - Improving my coding and problem-solving skills
--
+
 - ## Skills
 - Python
 - Flask
@@ -23,13 +23,11 @@
 - Search Student Records
 - Recycle Bin & Restore
 
-
 - ## My Portfolio
 
 Check out my personal portfolio website:
 
 [🌐 Visit My Portfolio](https://avnish9119.github.io/portfolio-website/)
-
 
 
 ## Connect With Me
